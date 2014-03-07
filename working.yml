@@ -1,0 +1,22 @@
+---
+name: working
+root: ~/
+windows:
+  - server:
+      layout: even-horizontal
+      panes:
+        - sbx
+        - "sbx build homepage"
+  - logs:
+      layout: even-vertical
+      panes:
+        - "sbx logs error_log"
+        - "sbx logs access_log"
+  - git:
+      layout: tiled
+      panes:
+        - cd ~/nyt/nyt5-app-article && fish
+        - cd ~/nyt/nyt5-app-homepage && fish
+        - cd ~/nyt/nyt5-foundation && fish
+        - cd ~/nyt/nyt5-shared && fish
+  - new: fish
