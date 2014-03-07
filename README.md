@@ -11,7 +11,9 @@ cp config.fish ~/.config/fish/config.fish
 
 
 In command prompt:
-fish                   - this will start fish
-mux start working	   - this will open tmux with automatic commands/windows/panes
+
+fish
+mux start working
+
 
 
