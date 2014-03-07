@@ -13,6 +13,7 @@ cp config.fish ~/.config/fish/config.fish
 In command prompt:
 
 fish
+
 mux start working
 
 
