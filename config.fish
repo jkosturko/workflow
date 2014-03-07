@@ -1,6 +1,3 @@
-source /Users/205180/virtualfish/virtual.fish
-source /Users/205180/virtualfish/auto_activation.fish
-source /Users/205180/virtualfish/global_requirements.fish
 #source ~/.config/fish/nyt.fish
 #. ~/.config/fish/source.fish
 #source --bash ~/nyt/nyt5-puppet/.nyt
