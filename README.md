@@ -43,6 +43,7 @@ ctrl + a k - up a pane
 ctrl + a h - left a pane
 ctrl + a l - rigth a pane
 
+`ctrl-k` - clear scrollback buffer for a pane
 
 Optional:
 Tip: Map Capslock key to Ctrl key for easy Caps+ a
