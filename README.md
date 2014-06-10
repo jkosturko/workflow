@@ -6,6 +6,7 @@ Install Tmux: - brew install tmux
 
 Install Tmuxinator: gem install tmuxinator
 
+(if .tmuxinator doesn't exit mkdir ~/.tmuxinator)
 
 cp working.yml ~/.tmuxinator/working.yml
 
