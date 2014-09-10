@@ -4,9 +4,9 @@ Install Fish: - brew install fish
 
 Install Tmux: - brew install tmux
 
-Install Tmuxinator: gem install tmuxinator
+Install Tmuxinator: sudo gem install tmuxinator
 
-(if .tmuxinator doesn't exit mkdir ~/.tmuxinator)
+mkdir ~/.tmuxinator
 
 cp working.yml ~/.tmuxinator/working.yml
 
